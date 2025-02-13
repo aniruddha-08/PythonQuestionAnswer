@@ -5,7 +5,7 @@
 # for i in a:
 #     sum=sum+i
 # print("Sum={}".format(sum))
-from itertools import count
+
 
 #print("-------------------------------------------------------------------------------------------------")
 # 2. Write a Python program to multiply all the items in a list.
